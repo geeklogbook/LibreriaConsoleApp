@@ -1,9 +1,9 @@
-# Librer�a
+# Librería
 
-Soluci�n utilizada para generar un simple CRUD utilizando el MVC
+Solución utilizada para generar un simple CRUD utilizando el MVC
 
 UML
-![UML Diagram](documents\\uml_diagram.png)
+![UML Diagram](./documents/uml_diagram.png)
 
 DER
-![DER Diagram](documents\\der_diagram.png)
+![DER Diagram](./documents/der_diagram.png)
